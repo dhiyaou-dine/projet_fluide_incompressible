@@ -1,4 +1,4 @@
-# projet_fluide_incompressible
+# projet_fluide_compressible
 Etude de deux modèles d'écoulement de fluide
 
 
